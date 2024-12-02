@@ -1,9 +1,9 @@
-## Hi there 👋
+## Welcome to my GitHub!
 
 My name is Anton and I'm a Software Research Engineer at Nikon Metrology. You'll find me doing C#, Python and physics for the X-ray CT industry.
 
-- 🔭 I’m currently working on ... check it out [here](https://github.com/anton-charman)
-- 🌱 I’ve recently built ...
+- Recently developed Snake in WPF [here](https://github.com/anton-charman)
+- Next project: implement Brick Breaker in WPF. 
 <!--
 **anton-charman/anton-charman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
